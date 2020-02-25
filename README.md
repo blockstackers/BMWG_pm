@@ -9,7 +9,7 @@ The Business Model group is working to create an economy in the Blockstack ecosy
 - **Understand How this Group Works:** Go through the [intro session agenda](https://paper.dropbox.com/doc/Business-Model-Lab--Au_376lyZ_bEsL62y88rHIw1Ag-QoegfeEhDOMdaaTOFgydd).
 - **Listen to the First Session:** Check out the recording of the 02/24/20 [intro meeting](https://paper.dropbox.com/doc/Business-Model-Lab--Au_376lyZ_bEsL62y88rHIw1Ag-QoegfeEhDOMdaaTOFgydd).
 
-**Get Involved**
+### Get Involved
 - Join the working group on [Discord](https://discord.gg/3777ANS).
 - Follow and participate in [community discussion on business modeling](https://forum.blockstack.org/c/Working-Groups/Business-Model).
 - Look out for the next meeting on the [community calendar](https://community.blockstack.org/events#categories=70427&start_date=2020-02-24&view=stream&range=events&events=20&end_date=2020-12-31).
