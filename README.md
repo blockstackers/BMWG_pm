@@ -7,6 +7,7 @@ The Business Model group is working to create a true economy within the Blocksta
 ### Resources
 
 **Understand How this Group Works:** Go through the [intro session agenda](https://paper.dropbox.com/doc/Business-Model-Lab--Au_376lyZ_bEsL62y88rHIw1Ag-QoegfeEhDOMdaaTOFgydd).
+
 **Previous Meetings:**
 - [02/24/20](https://paper.dropbox.com/doc/Business-Model-Lab--Au_376lyZ_bEsL62y88rHIw1Ag-QoegfeEhDOMdaaTOFgydd)
 - [03/09/20](https://forum.blockstack.org/t/business-model-working-group-session-03-09-20/10490/9)
