@@ -1,7 +1,9 @@
 # About /biz-model_pm
+
 This repo is used to manage projects by the Business Model working group.
 
 ## Business Model Working Group
+
 The Business Model group is working to create a true economy within the Blockstack ecosystem. This group is focused on building thriving businesses by leveraging novel consensus mechanism, Proof of Transfer (PoX), and developing around the utility of Stacks (STX) tokens. They are also exploring innovative use cases for Clarity smart contracts and researching future prospects such as app tokens and app chains. The Business Model group is particularly collaborative, experimental, and generally set up to operate like a "lab".
 
 ### Resources
@@ -22,7 +24,8 @@ Go through the [intro session agenda](https://paper.dropbox.com/doc/Business-Mod
 | [04/06/20](https://forum.blockstack.org/t/working-group-session-04-06-20/10640) | [Video](https://zoom.us/rec/share/-_dkK6_A5HxLWZXEzmLvaJV8L6jKeaa80XQc_vYEzklUNNSXDTYJA_h42KavLfbO) |
 | [04/20/20](https://forum.blockstack.org/t/working-group-session-04-20-20/10696) | [Video](https://zoom.us/rec/play/6cUqJLitqT83EtCT4QSDU_EvW424LaqshHId8vFenxy3AXdQNACkNLBBY7fsxpkcv3q_n0TNdQ0JbsMz) |
 | [04/28/20](https://forum.blockstack.org/t/working-group-session-04-28-20/10741) | None |
-| 05/11/20 | [Folder](https://drive.google.com/drive/folders/1riuChB41AgmODkyDc3z3Ugj-oHZ4grpB) | 
+| [05/11/20](https://forum.blockstack.org/t/working-group-session-05-11-20/10827) | [Folder](https://drive.google.com/drive/folders/1riuChB41AgmODkyDc3z3Ugj-oHZ4grpB) |
+| [05/18/20](https://forum.blockstack.org/t/working-group-session-05-18-20/10828) | [Video](https://zoom.us/rec/share/w8BJL7eptWJOXtKVwmCYZqcdJKG4T6a81ChL-PoNz0pmoc7loEcaRnVpc6ip5pfz?startTime=1589810696000) |
 
 ### Get Involved
 
