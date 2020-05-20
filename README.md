@@ -1,4 +1,4 @@
-# About /biz-model_pm
+# About /BMWG_pm
 
 This repo is used to manage projects by the Business Model working group.
 
